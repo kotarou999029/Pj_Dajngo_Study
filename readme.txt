@@ -17,4 +17,4 @@ github push test + 4回目修正
 
 土井４度参上!
 
-konishi
+konishiki
