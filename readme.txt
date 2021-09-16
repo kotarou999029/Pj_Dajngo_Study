@@ -21,3 +21,5 @@ konishikijujujs
 
 
 konishikijujujsssssssssss
+
+konishiマニュアル用追加
