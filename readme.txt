@@ -23,3 +23,5 @@ konishikijujujs
 konishikijujujsssssssssss
 
 konishiマニュアル用追加
+
+konishi210917
