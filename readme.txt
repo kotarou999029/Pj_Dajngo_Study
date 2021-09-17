@@ -23,3 +23,5 @@ konishikijujujs
 konishikijujujsssssssssss
 
 konishiマニュアル用追加
+
+土井参上 9/17
